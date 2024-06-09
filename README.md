@@ -44,4 +44,4 @@ Zomato is a online food ordering application, we made a clone (Zomato) of it usi
 2. yarn run dev
 
 //BY - Kartikey Tripathi ❤❤
-"# tomato" 
+"# Zomato" 
